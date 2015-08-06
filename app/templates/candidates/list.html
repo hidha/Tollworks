@@ -1,0 +1,23 @@
+<div class="container">
+    <div class="row">
+        <div class="page-header"><h3>Candidate List</h3></div>
+    </div>
+    <div class="row">
+        <div class="col-sm-5 candidates-list">
+            <table class="table table-bordered table-hover table-responsive">
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Email</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr ng-repeat="candidate in candidates">
+                        <td><a href="#/candidates/{{candidate.jobId}}">{{candidate.name}}</a></td>
+                        <td>{{candidate.email}}</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

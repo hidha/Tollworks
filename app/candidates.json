@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Tony Abbott",
+        "currentlyEmployed": true,
+        "jobId": "00001",
+        "availableAfter": "21/07/2015",
+        "email": "tony.abbott@abc.com",
+        "streetAddress": "1 some street",
+        "state": "VIC",
+        "desiredSalary": "200",
+        "currentSalary": "200"
+    },
+    {
+        "name": "Julia Gillard",
+        "currentlyEmployed": false,
+        "jobId": "00002",
+        "availableAfter": "15/08/2015",
+        "email": "julia.gillard@xyz.com",
+        "streetAddress": "",
+        "state": "",
+        "desiredSalary": "",
+        "currentSalary": ""
+    },
+    {
+        "name": "Kevin Rudd",
+        "currentlyEmployed": false,
+        "jobId": "00003",
+        "availableAfter": "15/08/2015",
+        "email": "kevin.rudd@xyz.com",
+        "streetAddress": "3 another steet",
+        "state": "ACT",
+        "desiredSalary": "250",
+        "currentSalary": "225"
+    },
+    {
+        "name": "Joe Hockey",
+        "currentlyEmployed": true,
+        "jobId": "00004",
+        "availableAfter": "17/06/2015",
+        "email": "joe.hockey@abc.com",
+        "streetAddress": "1/86 some road",
+        "state": "NSW",
+        "desiredSalary": "100",
+        "currentSalary": "99"
+    },
+    {
+        "name": "Scott Morrison",
+        "currentlyEmployed": false,
+        "jobId": "00005",
+        "availableAfter": "22/06/2015",
+        "email": "",
+        "streetAddress": "224 another road",
+        "state": "TAS",
+        "desiredSalary": "300",
+        "currentSalary": "150"
+    },
+    {
+        "name": "Bill Shorten",
+        "currentlyEmployed": true,
+        "jobId": "00006",
+        "availableAfter": "20/09/2015",
+        "email": "bill.shorten@bbb.com",
+        "streetAddress": "32 small street",
+        "state": "WA",
+        "desiredSalary": "150",
+        "currentSalary": "120"
+    }
+]
